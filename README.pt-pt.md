@@ -35,4 +35,4 @@ Programador Português dedicado à arte do desenvolvimento de videojogos.
 Explore versões encantadas em vários idiomas:
 
 [![en](https://img.shields.io/badge/readme-en-green.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
-[![pt-pt](https://img.shields.io/badge/readme-pt--pt-yellow.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
+[![pt-pt](https://img.shields.io/badge/readme-pt--pt-yellow.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.pt-pt.md)
