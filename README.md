@@ -1,7 +1,3 @@
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
-[![pt-pt](https://img.shields.io/badge/lang-pt--pt-yellow.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
-
- 
 # 👋 Greetings,
 
 I'm a Portuguese programmer dedicated to the craft of video game development :video_game:.
@@ -34,4 +30,10 @@ I'm a Portuguese programmer dedicated to the craft of video game development :vi
 
 - Contact me on <a href="https://www.linkedin.com/in/ricardodfcosta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/> 
 
+#### 🌐 Enchanted Scripts
+
+Explore enchanted versions in diverse languages:
+
+[![en](https://img.shields.io/badge/readme-en-green.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
+[![pt-pt](https://img.shields.io/badge/readme-pt--pt-yellow.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
 
