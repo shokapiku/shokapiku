@@ -26,7 +26,7 @@ I'm a Portuguese programmer dedicated to the craft of video game development :vi
 ![Git](https://img.shields.io/badge/Git-blue?style=flat&logo=git)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-blue?style=flat&logo=visualstudio)
 
-#### 🤝 Connect
+#### 🚪 Portal to Connections
 
 - Contact me on <a href="https://www.linkedin.com/in/ricardodfcosta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/> 
 
