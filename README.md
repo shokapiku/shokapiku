@@ -35,5 +35,5 @@ I'm a Portuguese programmer dedicated to the craft of video game development :vi
 Explore enchanted versions in diverse languages:
 
 [![en](https://img.shields.io/badge/readme-en-green.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
-[![pt-pt](https://img.shields.io/badge/readme-pt--pt-yellow.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.md)
+[![pt-pt](https://img.shields.io/badge/readme-pt--pt-yellow.svg)](https://github.com/shokapiku/shokapiku/blob/main/README.pt-pt.md)
 
